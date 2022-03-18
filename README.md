@@ -1,4 +1,4 @@
-# getfit_aplProject
+# getfit_aplProject (SISTEMARE)
 University project for the Advanced Programming Languages course. 2021/2022
 
 ----- DESCRIZIONE DELL'APPLICAZIONE -----
